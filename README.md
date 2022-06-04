@@ -7,3 +7,7 @@ The length (-> period) of the resulting rhythm is the lowest common denominator 
 This program depends on scamp library; please install it beforehand.
 > pip3 install scamp
 
+watch it in action
+https://drive.google.com/file/d/1Y-6NzQUic7YDd5UB97540SgmtZxNZhzF/view?usp=sharing
+
+
